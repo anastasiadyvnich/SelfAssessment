@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 👂 heard
-  - try..catch 👂 heard
+  - Event loop 🎓 known
+  - try..catch 🎓 known
   - Non-blocking
   - Async I/O
-  - Thread pool
+  - Thread pool 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -16,26 +16,26 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming
+  - Concurrent programming 
   - Parallel programming 
   - Actor Model
-  - Thread 
-  - Process 
+  - Thread 🎓 known
+  - Process 🎓 known
 - Async contracts
-  - Callbacks 
+  - Callbacks 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise 
-  - Async/await 
+  - Promise 🎓 known
+  - Async/await 🎓 known
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event 
+  - Event 🎓 known
   - Coroutine
   - Goroutine
-  - Signal 👂 heard
+  - Signal 🎓 known
   - Stream
   - Chain of responsibility
   - Middleware
@@ -47,12 +47,12 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter 
+  - EventEmitter 🎓 known
   - Observable/Observer
   - Readable
   - Writable
   - Transform
-  - Async Pool 👂 heard
+  - Async Pool 🎓 known
   - Async Queue 
   - Async Collector
   - Semaphore
@@ -66,7 +66,7 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process 👂 heard
+  - child_process 🎓 known
   - worker_threads
   - Atomics
   - High resolution clock
@@ -84,7 +84,7 @@
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all
+  - Promise.all 
   - Promise.allSettled
   - Promise.race
   - Promise.any

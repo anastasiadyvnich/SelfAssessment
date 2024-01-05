@@ -17,12 +17,12 @@
   - iterator 🎓 known
   - async generator 🖐️ used
   - async iterator 🖐️ used
-  - chaining 👂 heard
-  - optional chaining 👂 heard
+  - chaining 🎓 known
+  - optional chaining 🎓 known
   - IIFE 🎓 known
   - global 🎓 known
-  - globalThis 👂 heard
-  - window 👂 heard
+  - globalThis 🎓 known
+  - window 🎓 known
   - getters and setters 🖐️ used
   - **proto** 👂 heard
   - prototype 🖐️ used

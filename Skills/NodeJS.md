@@ -7,16 +7,16 @@
   - Event loop: phases
   - Event loop: microtasks and macrotasks
   - Garbage collection 
-  - Node.js LTS schedule 👂 heard
+  - Node.js LTS schedule 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks 
   - Interactive applications (close to real-time) 
 - Modularity, layers and dependencies
   - CommonJS modules 
   - ECMAScript modules 
-  - node:module 
+  - node:module 🎓 known
   - Caching in CJS and ESM 
   - Modules as singletons 
-  - Contexts and scripts node:vm 
+  - Contexts and scripts node:vm 🎓 known
   - Dependencies: npm, node_modules 🎓 known
   - Dependencies: package.json and package lock
   - Module-based permissions model
@@ -24,10 +24,10 @@
   - Dependency injection 
   - DI containers
   - Coupling and cohesion
-  - Framework agnostic approach
+  - Framework agnostic approach 
 - Environment
   - Command line arguments 🎓 known
-  - Node.js CLI 👂 heard
+  - Node.js CLI 🎓 known
   - Process-based permissions 🎓 known
   - Graceful shutdown
   - Clustering
@@ -43,7 +43,7 @@
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
-  - node:async_hooks 
+  - node:async_hooks 🎓 known
   - AsyncLocalStorage 
   - AsyncResource 
   - Deprecated domain API
@@ -51,14 +51,14 @@
   - Stream back pressure
   - SharedArrayBuffer
   - node:worker_threads 🎓 known
-  - node:child_process 👂 heard
+  - node:child_process 🎓 known
   - MessageChannel, MessagePort 
   - BroadcastChannel 
   - Generating crypto random UUID
-  - node:url vs new URL 👂 heard
+  - node:url vs new URL 🎓 known
   - node:assert 👂 heard
   - Internationalization
-  - Blob, File, Buffer, node:buffer 👂 heard
+  - Blob, File, Buffer, node:buffer 🎓 known
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
@@ -66,19 +66,19 @@
   - Separation of concerns
   - Inversion of control
   - Dependency injection
-  - GRASP 
-  - SOLID 
+  - GRASP 👂 heard
+  - SOLID 👂 heard
   - GoF patterns
   - Distributed systems
   - Highload applications
-  - Clean architecture 👂 heard
+  - Clean architecture  🎓 known
   - DDD
   - Message Queue 
   - CQS
   - CQRS
-  - Event sourcing
-  - Load balancing
-  - Serverless clouds 
+  - Event sourcing 👂 heard
+  - Load balancing 👂 heard
+  - Serverless clouds 👂 heard
   - FaaS clouds
   - Fat controller
   - GoF for Node.js
@@ -136,9 +136,9 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error 
-  - error.cause 
-  - error.code 
+  - Error 🎓 known
+  - error.cause 🎓 known
+  - error.code 🎓 known
   - error.message 
   - error.stack 
   - How to avoid mixins
