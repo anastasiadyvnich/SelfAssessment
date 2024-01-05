@@ -8,7 +8,7 @@
   - Functional programming 
   - Prototype-based programming 
   - Object-oriented programming 
-  - Object-based programming 👂 heard
+  - Object-based programming 🖐️ used
   - Generic programming 
   - Concurrent computing 
   - Asyncronous programming 👂 heard
@@ -21,28 +21,28 @@
   - Metaprogramming 
   - Actor model
 - OOP basics
-  - constructor 
-  - new 
-  - Static method 
-  - Method
-  - Async method 
-  - Getters, Setters 
-  - Public fields 
-  - Private fields 
-  - Field declarations 
-  - Inheritance 
-  - Parent class 
-  - Polymorphism 
-  - Abstract class 
-  - Interface 
-  - Encapsulation 
-  - Hidden class 
-  - Object form 
-  - instance 
-  - Introspection 
-  - Reflection 
+  - constructor 🖐️ used
+  - new 🖐️ used
+  - Static method 🖐️ used
+  - Method🖐️ used
+  - Async method 🖐️ used
+  - Getters, Setters 🖐️ used
+  - Public fields 🖐️ used
+  - Private fields 🖐️ used
+  - Field declarations 🖐️ used
+  - Inheritance 🖐️ used
+  - Parent class 🖐️ used
+  - Polymorphism 🖐️ used
+  - Abstract class 🖐️ used
+  - Interface 🖐️ used
+  - Encapsulation 🖐️ used
+  - Hidden class 🖐️ used
+  - Object form 🖐️ used
+  - instance 🖐️ used
+  - Introspection 🖐️ used
+  - Reflection 🖐️ used
 - Patterns
-  - Singleton 
+  - Singleton 🖐️ used
   - Factory Method 
   - Abstract Factory 
   - Adapter

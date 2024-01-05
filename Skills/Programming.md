@@ -64,7 +64,7 @@
   - set 
   - hash table 
   - linked list 🖐️ used
-  - doubly list 
+  - doubly list 🖐️ used
   - unrolled list 
   - circular list 
   - queue 
